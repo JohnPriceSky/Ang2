@@ -1,0 +1,14 @@
+h2{
+    color: grey;
+}
+.rm1{
+    color: red;
+    cursor: pointer;
+}
+.rm2{
+    color: green;
+    cursor: pointer;
+}
+.checked{
+    text-decoration: line-through;
+}

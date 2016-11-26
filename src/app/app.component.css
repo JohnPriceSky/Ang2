@@ -1,0 +1,12 @@
+.container{
+    width: 80%;
+    margin: auto;
+    user-select: none;
+    cursor: default;
+}
+.head{
+    background: gray;
+    color: gold;
+    height: 50px;
+    text-align: center;
+}
